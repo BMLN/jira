@@ -11,5 +11,5 @@ dependencies = [
 
 [tool.uv_build]
 packages = [
-    { include = "jira", from = "src" }
+    { include = "src" }
 ]
